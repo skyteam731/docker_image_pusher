@@ -1,1 +1,1 @@
-pterodactylchina/panel:latest
+pterodactylchina/panel
